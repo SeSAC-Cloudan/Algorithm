@@ -4,9 +4,9 @@
 
 매주 화, 목요일에 모여 문제를 같이 풀고 
 
-사용한 문법을 알아봅니다. :tada:
+사용한 메서드와 알고리즘에 대해 알아봅시다 :tada:
 
-[NOTION](https://www.notion.so/d2c15a2ad8f54b6585c45017cb2c4664?v=233b2f37b66d4c2baa53fef63133d7b8)
+[NOTION](https://desert-course-55d.notion.site/Algorithm-701088b7923e402baac8a923f4a49fb1?pvs=4)
 
 
 
