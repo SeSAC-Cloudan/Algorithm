@@ -1,4 +1,4 @@
-# *Algorithm Study*
+# *Algorythm Study*
 
  :white_flower: <mark>구름단</mark> 알고리즘 리포지토리입니다. :white_flower:
 
