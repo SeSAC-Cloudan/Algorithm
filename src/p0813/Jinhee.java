@@ -5,7 +5,7 @@ import java.util.Comparator;
 
 // 1. 입력된 이차원 배열을 더 쉽게 다루기 위한 Student Class
 class Student {
-    public int index; // 배열 인덱스
+    public int index; // 인덱스
     public int eng; // 영어
     public int math; // 수학
     public double avg; // 평균
