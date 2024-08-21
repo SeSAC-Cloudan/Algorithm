@@ -3,10 +3,10 @@ package p0815;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class jinhee {
+public class Jinhee {
 
     public static void main(String[] args) {
-        jinhee j = new jinhee();
+        Jinhee j = new Jinhee();
         System.out.println(j.solution(4890293));
     }
 
