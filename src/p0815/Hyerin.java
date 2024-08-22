@@ -1,7 +1,5 @@
 package p0815;
 
-public class Hyerin {
-
 import java.util.ArrayList;
 import java.util.Collections;
 
