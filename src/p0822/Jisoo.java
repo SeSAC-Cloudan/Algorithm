@@ -6,7 +6,7 @@ import java.util.Stack;
 /**
  * 프로그래머스 lv.1 같은 숫자는 싫어
  */
-public class Jisoo {
+public class Jisoo { //~_~
     public static void main(String[] args) {
         Jisoo j = new Jisoo();
 
