@@ -28,6 +28,8 @@ public class Jisoo {
         return answer;
     }
 
+    // t의 index번째 자리, p의 0번째 자리 부터 p의 length()만큼 char를 비교하여
+    // t의 부분문자열이 p에 비해 큰지 작은지 판단합니다. 크면 false, 작으면 true를 반환합니다.
     private boolean isLess(int index) {
         int pIndex = 0;
         for (int i = index; i < index + p.length(); i++) {
