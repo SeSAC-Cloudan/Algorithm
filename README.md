@@ -13,6 +13,16 @@
 # *풀어본 문제들*
 
 
-[자릿수더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+1. [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
 
-[모스부호](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
+2. [모스부호](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
+
+3. [등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
+   
+4. [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
+
+5. [약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
+
+6. [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+
+7. [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
