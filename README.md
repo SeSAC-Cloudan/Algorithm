@@ -26,3 +26,7 @@
 6. [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
 7. [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)
+
+8. [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
+
+9. [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
